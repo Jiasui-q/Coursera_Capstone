@@ -1,2 +1,4 @@
 # Coursera_Capstone
-This is mainly used for the capstone project on Coursera.
+Toronto Neighborhood Project:\ 
+Get neighborhoods' data through web scraping.\
+Applied k-means clustering according to popular venues in different neighborhoods.
